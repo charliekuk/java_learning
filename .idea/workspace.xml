@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c5b294e-ff4f-4920-a3ea-8e602bbabee8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java_learning/MyFirstApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java_learning/XCountToZero.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MyFirstApp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/XCountToZero.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8c5b294e-ff4f-4920-a3ea-8e602bbabee8" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
